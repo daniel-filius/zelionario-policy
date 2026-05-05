@@ -125,7 +125,7 @@ O App **não é direcionado a menores de 13 anos**. Não coletamos intencionalme
 
 Podemos atualizar esta política a qualquer momento. Mudanças significativas serão comunicadas dentro do App. A versão mais atual estará sempre disponível em:
 
-`https://<seu-usuario>.github.io/zelionario-policy/`
+`https://daniel-filius.github.io/zelionario-policy/`
 
 (O link acima será atualizado após a publicação do GitHub Pages.)
 
